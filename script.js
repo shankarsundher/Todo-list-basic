@@ -3,6 +3,7 @@ const listContainer = document.getElementById("list-container");
 
 function addTask() {
     if (inputBox.value === '') {
+        
         alert('Write something in the text box!');
     }
     else {
