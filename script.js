@@ -15,6 +15,13 @@ function addTask() {
         span.innerHTML = "\u00d7";
         li.appendChild(span);
     }
+	if{
+		
+	}
+	else{
+		
+		
+	}
 
     inputBox.value = "";
     saveData();
